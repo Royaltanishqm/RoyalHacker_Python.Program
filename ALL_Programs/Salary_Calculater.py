@@ -1,6 +1,0 @@
-BS=input("Enter Basic Salary: ")
-HRA=input("Enter HRA: ")
-DA=input("Enter DA: ")
-Bonus=input("Enter Bonus: ")
-GrossSalary=int(BS)+int(HRA)+int(DA)+int(Bonus)
-print("Gross Salary: ", GrossSalary)
